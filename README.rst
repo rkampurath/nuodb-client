@@ -25,7 +25,7 @@ database are found in the NuoDB documentation `System Requirements`_ page.
 +--------------------+----------------------------------------+
 |Utility             | Requirements                           |
 +====================+========================================+
-|nuocmd / pynuoadmin |Python 3.6 or later                     |
+|nuocmd / pynuoadmin |Python 3.8 or later                     |
 +--------------------+----------------------------------------+
 |nuosql              |GNU/Linux or Windows                    |
 +--------------------+----------------------------------------+
@@ -47,11 +47,11 @@ Also included are SQL drivers:
 +------------------+---------------------+
 |ODBC              |GNU/Linux or Windows |
 +------------------+---------------------+
-|JDBC              |Java 8 or 11         |
+|JDBC              |Java 11 or 17        |
 +------------------+---------------------+
-|Hibernate5        |Java 8 or 11         |
+|Hibernate5        |Java 11 or 17        |
 +------------------+---------------------+
-|Python            |Python 3.6 or later  |
+|Python            |Python 3.8 or later  |
 +------------------+---------------------+
 
 The use of the NuoDB clients and the drivers in this package require a running
